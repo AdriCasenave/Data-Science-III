@@ -1,0 +1,12 @@
+# Dependencias básicas para el proyecto NLP - Sin versiones específicas
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+jupyter
+textblob
+requests
+tensorflow
