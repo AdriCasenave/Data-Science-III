@@ -27,24 +27,9 @@ proyecto_nlp/
 └── README.md                   # Este archivo
 ```
 
-### 🚀 Instalación y Uso
 
-#### Opción 1: Instalación Automática (Recomendada)
-```bash
-# Dar permisos de ejecución
-chmod +x setup.sh
 
-# Ejecutar instalación
-./setup.sh
-
-# Activar entorno virtual
-source venv_nlp/bin/activate
-
-# Ejecutar proyecto completo
-python main.py
-```
-
-#### Opción 2: Instalación Manual
+#### Instalación
 ```bash
 # Crear entorno virtual
 python3 -m venv venv_nlp
@@ -55,20 +40,6 @@ pip install -r requirements.txt
 
 # Ejecutar proyecto
 python main.py
-```
-
-#### Opción 3: Notebooks Interactivos
-```bash
-# Activar entorno virtual
-source venv_nlp/bin/activate
-
-# Iniciar Jupyter
-jupyter notebook notebooks/
-
-# Ejecutar notebooks en orden:
-# 1. 01_exploracion_datos.ipynb
-# 2. 02_nlp_tradicional.ipynb
-# 3. 03_deep_learning.ipynb
 ```
 
 ### 📊 Características Implementadas
