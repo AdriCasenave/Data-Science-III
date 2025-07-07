@@ -1,6 +1,10 @@
 # Proyecto NLP - Análisis de Sentimientos 🎯
 ## Entrega Final - Procesamiento de Lenguaje Natural y Deep Learning
 
+### Dataset utilizado:
+
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
 ### 📋 Descripción del Proyecto
 Este proyecto implementa un sistema completo de análisis de sentimientos que combina:
 1. **Técnicas tradicionales de NLP** (tokenización, preprocessing, análisis estadístico)
