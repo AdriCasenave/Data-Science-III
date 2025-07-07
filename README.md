@@ -5,12 +5,12 @@
 
 https://www.kaggle.com/datasets/kazanova/sentiment140
 
-### 📋 Descripción del Proyecto
+### Descripción del Proyecto
 Este proyecto implementa un sistema completo de análisis de sentimientos que combina:
 1. **Técnicas tradicionales de NLP** (tokenización, preprocessing, análisis estadístico)
 2. **Modelo de Deep Learning** (red neuronal para clasificación de sentimientos)
 
-### 🗂️ Estructura del Proyecto
+### Estructura del Proyecto
 ```
 proyecto_nlp/
 ├── data/                       # Datasets y datos procesados
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### 📊 Características Implementadas
+### Características Implementadas
 
 #### NLP Tradicional:
 - ✅ Tokenización
@@ -73,7 +73,7 @@ python main.py
 - ✅ Matrices de confusión
 - ✅ Curvas de aprendizaje
 
-### 🎯 Resultados Esperados
+### Resultados Esperados
 El proyecto genera automáticamente:
 - Dataset procesado con análisis de sentimientos
 - Modelos entrenados listos para usar
@@ -81,7 +81,7 @@ El proyecto genera automáticamente:
 - Reporte completo con métricas
 - Comparación entre modelos tradicionales y deep learning
 
-### 🏆 Logros del Proyecto
+### Logros del Proyecto
 - ✅ **NLP Completo**: Tokenización, preprocessing, análisis de frecuencias
 - ✅ **Deep Learning**: Redes neuronales LSTM con regularización
 - ✅ **Visualizaciones**: Gráficos informativos y word clouds
